@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: initial;
+  }
+  
+  .container__bees {
+    width: 200px;
+    margin: 20px;
+  }
+  
+  .container__bees-img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+  }
