@@ -1,4 +1,4 @@
-<- INÍCIO
+<a href="https://github.com/LoPhine/DojoGit"><- Início</a>
 
 <h1> GIT </h1>
 
@@ -65,4 +65,4 @@ O Git guarda um histórico de tudo que foi alterado nos arquivos ao longo do tem
 
 <p> É um software para utilizar as linhas de comando do git além de alguns outros comandos unix, necessário principalmente no Windows, já que inicialmente o git foi desenvolvido para linux </p>
 
-<- Início | Sobre linha de comando ->
+<a href="https://github.com/LoPhine/DojoGit"><- Início</a> | <a href="https://github.com/LoPhine/DojoGit/blob/master/Conteudo/sobreLinhaDeComando.md">Sobre linha de comando -></a>
